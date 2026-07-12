@@ -1,5 +1,8 @@
 # awesome-ai-api
 
+> **Need one SDK across providers?** [www.aifast.club](https://www.aifast.club) exposes an OpenAI-compatible endpoint for the models currently listed in its console. [Setup guide](https://github.com/KKWANG4444/ai-api-proxy-china-guide).
+
+
 > The world's largest open-source hub for AI API gateways & reseller reviews.  
 > Curated · community-driven · fully transparent · **every gateway probed daily**.
 
